@@ -23,6 +23,8 @@ I'm Stef Robbe, a Sophomore IT student from the Netherlands.
 <a href="https://www.linkedin.com/in/stef-robbe-851318184/">My LinkedIn</a> </br>
 <a href="http://stef.robbe.one/">My website</a> </br>
 <a href="mailto:stef.robbe@gmail.com">My Gmail</a>
+
+</br>
 </br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Stef16Robbe&show_icons=true)
