@@ -17,6 +17,8 @@ I'm Stef Robbe, a Sophomore IT student from the Netherlands.
 
 <img src="https://img.shields.io/badge/MongoDB-green" /> <img src="https://img.shields.io/badge/MySQL-orange" />
 
+<img src="https://img.shields.io/badge/Linux-black" />
+
 </br>
 <a href="https://www.linkedin.com/in/stef-robbe-851318184/">My LinkedIn</a> </br>
 <a href="http://stef.robbe.one/">My website</a> </br>
