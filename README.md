@@ -1,6 +1,6 @@
 # 🖥 Full Stack Developer
 
-I'm Stef Robbe, a Full Stack web developer from the Netherlands.
+I'm Stef Robbe, a Sophomore IT student from the Netherlands.
 
 ## Favourite languages to work with:
 
