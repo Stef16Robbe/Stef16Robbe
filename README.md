@@ -17,4 +17,6 @@ I'm Stef Robbe, a passionate Full Stack web developer from the Netherlands.
 
 </br>
 </br>
+<a href="https://www.linkedin.com/in/stef-robbe-851318184/">My LinkedIn</a>
 <a href="http://stef.robbe.one/">Visit my website</a>
+<a href="mailto:stef.robbe@gmail.com">My Gmail</a>
