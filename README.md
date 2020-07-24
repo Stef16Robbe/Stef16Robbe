@@ -11,14 +11,9 @@ I'm Stef Robbe, a passionate Full Stack web developer from the Netherlands.
 
 ## Skills
 
-<img src="https://img.shields.io/badge/HTML5-ff7851" />
-<img src="https://img.shields.io/badge/CSS3-44b2fb" />
-<img src="https://img.shields.io/badge/JavaScript -ffc742" />  
+<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" />  
 
-<img src="https://img.shields.io/badge/Java -FF0000" />
-<img src="https://img.shields.io/badge/C%23-brightgreen" />
-<img src="https://img.shields.io/badge/Python-blue" />
-<img src="https://img.shields.io/badge/PHP-grey" />
+<img src="https://img.shields.io/badge/Java -FF0000" /> <img src="https://img.shields.io/badge/C%23-brightgreen" /> <img src="https://img.shields.io/badge/Python-blue" /> <img src="https://img.shields.io/badge/PHP-grey" />
 
 </br>
 </br>
