@@ -1,6 +1,6 @@
 # 🖥 Full Stack Developer
 
-I'm Stef Robbe, a Sophomore IT student from the Netherlands.
+I'm Stef Robbe, a Junior IT student from the Netherlands, currenty in a 6-month internship at Ahold Delhaize.
 
 ## Favourite languages to work with:
 
