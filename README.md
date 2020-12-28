@@ -7,7 +7,7 @@ I'm Stef Robbe, a Junior IT student from the Netherlands, currenty in a 6-month 
 - C#
 - Python
 - Java
-- JavaScript
+- Typescript
 
 ## Skills
 
