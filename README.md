@@ -17,7 +17,7 @@ I'm Stef Robbe, a Junior IT student from the Netherlands.
 
 <img src="https://img.shields.io/badge/MongoDB-green" /> <img src="https://img.shields.io/badge/MySQL-orange" />
 
-<img src="https://img.shields.io/badge/Linux-black" /> <img src="https://img.shields.io/badge/Springboot-yellowgreen" /> <img src="https://img.shields.io/badge/React-blue" /> <img src="https://img.shields.io/badge/Typescript-blueviolet" /> <img src="https://img.shields.io/badge/DEVOPS-lightgrey" />
+<img src="https://img.shields.io/badge/Linux-black" /> <img src="https://img.shields.io/badge/Springboot-yellowgreen" /> <img src="https://img.shields.io/badge/React-blue" /> <img src="https://img.shields.io/badge/Typescript-blueviolet" /> <img src="https://img.shields.io/badge/DEVOPS-lightgrey" /> <img src="https://img.shields.io/badge/Quarkus-orange" />
 
 
 ### Info
