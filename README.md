@@ -4,10 +4,10 @@ I'm Stef Robbe, a Junior IT student from the Netherlands.
 
 ## Favourite languages to work with:
 
-- C#
 - Python
+- TypeScript
+- C#
 - Java
-- Typescript
 
 ## Skills
 
