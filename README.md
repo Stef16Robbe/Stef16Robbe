@@ -10,6 +10,5 @@ I'm Stef Robbe, a Senior IT student from the Netherlands.
 
 <br />
 <br />
-<br />
 
 <a href="https://github.com/Stef16Robbe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stef16Robbe&layout=compact&theme=buefy&hide_border=true" /></a>
