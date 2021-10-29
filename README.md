@@ -3,7 +3,7 @@ I'm Stef Robbe, a Senior IT student from the Netherlands.
 ## I'm interested in:
 
 - Learning low-level coding
-- - Cybersecurity
+- Cybersecurity
 - AI/ML
 - Software Development
 
