@@ -4,7 +4,17 @@ I'm Stef Robbe, a Senior IT student from the Netherlands.
 
 ### Languages:
 
-[![My Languages](https://skillicons.dev/icons?i=py,cs,rust,bash,pwsh,java,spring,ts,react,vue,azure&theme=light
+[![My Languages](https://skillicons.dev/icons?i=py,cs,rust,go,bash,pwsh,java,ts&theme=light
+)](https://skillicons.dev)
+
+### Frameworks:
+
+[![My Frameworks](https://skillicons.dev/icons?i=spring,react,vue&theme=light
+)](https://skillicons.dev)
+
+### Tools/Other:
+
+[![My Tools](https://skillicons.dev/icons?i=vscode,vim,visualstudio,mongodb,azure&theme=light
 )](https://skillicons.dev)
 
 <a href="https://github.com/stef16robbe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stef16robbe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stef's github stats" /></a>
