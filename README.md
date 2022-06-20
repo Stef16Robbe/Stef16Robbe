@@ -4,7 +4,7 @@ I'm Stef Robbe, a Senior IT student from the Netherlands.
 
 ### Languages:
 
-[![My Languages](https://skillicons.dev/icons?i=py,cs,rust,go,bash,pwsh,java,ts&theme=light
+[![My Languages](https://skillicons.dev/icons?i=py,cs,rust,go,ansible,bash,pwsh,java,ts&theme=light
 )](https://skillicons.dev)
 
 ### Frameworks:
