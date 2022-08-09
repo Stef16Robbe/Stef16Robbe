@@ -1,4 +1,4 @@
-I'm Stef Robbe, a Senior IT student from the Netherlands.
+I'm Stef Robbe, a IT professional from the Netherlands.
 
 ## Tools/languages I use:
 
