@@ -1,3 +1,3 @@
 # About me
 
-K8S, Ansible, Go, Rust, some other stuff.
+K8S, Go, Rust, Ansible & some other stuff 😊.
