@@ -6,4 +6,4 @@
 
 # About me
 
-Platform Engineer, hobby programmer 😊.
+🦀🦀🦀
